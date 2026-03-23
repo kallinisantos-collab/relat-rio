@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+#Titulo1{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f3f3f3;
+  color: #7da1e7;
+}
+
+#titulo2{
+    color: rgb(245, 245, 253);
+
+}
+
+.fundoAzul{
+
+    color: rgb(157, 226, 226);
+}
